@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://shksantosh.tech)
 <h1 align="center">Hi 👋, I'm Santosh Kumar Sharma</h1>
-<h3 align="center">I'm Santosh from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy Webflow, Figma ui, ux, and design in general.</h3>
+<h3 align="center">welcome to my repository. First of all thanks for giving me opportunity to introduce myself, this repository is all about myself I hope you guys enjoy reading it and get to know about me. I also enjoy Webflow, Figma ui, ux, and design in general.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shksantosh&label=Profile%20views&color=0e75b6&style=flat" alt="shksantosh" /> </p>
