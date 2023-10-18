@@ -28,4 +28,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shksantosh&theme=bear&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shksantosh&" alt="shksantosh" /></p>
