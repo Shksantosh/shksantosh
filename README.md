@@ -26,6 +26,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shksantosh&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shksantosh&show_icons=true&locale=en" alt="shksantosh" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shksantosh&theme=bear&hide_border=false)<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shksantosh&" alt="shksantosh" /></p>
