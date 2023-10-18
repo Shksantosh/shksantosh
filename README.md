@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Compiler is the best friend which always gives you an advice when you are wrong..**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santoshkumarshk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12272604/santosh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/santoshshk) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/santoshshk) 
 
 <h3 align="left">Languages and Tools:</h3>
