@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Sharma</h1>
-<h3 align="center">I'm Santosh from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy Webflow, Figma ui, ux, and design in general.</h3>
+<h3 align="center">I'm Santosh from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy Webflow, Figma UI/UX and design in general.</h3>
 
 - 🌱 I’m currently learning **Node js**
 
